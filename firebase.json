@@ -1,0 +1,9 @@
+{
+  "firebase": "uproxy-frankly",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
